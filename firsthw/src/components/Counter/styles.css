@@ -1,0 +1,58 @@
+.counter-container {
+  align-items: center;
+}
+
+.counter-text-gray {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #555555;
+  text-align: center;
+}
+
+.counter-text-red {
+  margin-top: 10px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
+
+.counter-text-green {
+  margin-top: 10px;
+  font-weight: bold;
+  color: green;
+  text-align: center;
+}
+
+.counter-text-purple {
+  margin-top: 10px;
+  font-weight: bold;
+  color: purple;
+  text-align: center;
+}
+
+.counter-text-blue {
+  margin-top: 10px;
+  font-weight: bold;
+  color: blue;
+  text-align: center;
+}
+
+.counter-text-royalblue {
+  margin-top: 10px;
+  font-weight: bold;
+  color: royalblue;
+  text-align: center;
+}
+
+.counter-text-black {
+  margin-top: 10px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+
+.counter-button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

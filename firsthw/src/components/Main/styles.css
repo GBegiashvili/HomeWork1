@@ -1,0 +1,8 @@
+.main-screen-container {
+  background-color: whitesmoke;
+  border: 1px solid #dedede;
+  border-radius: 5px;
+  width: 90%;
+  margin: 25px auto;
+  padding: 5px;
+}

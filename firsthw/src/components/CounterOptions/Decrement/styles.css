@@ -1,0 +1,16 @@
+.decrement-option-container {
+  width: 20%;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.decrement-button {
+  color: white;
+  font-weight: bold;
+  background-color: #ff4d4f;
+  border: 1px solid #ff4d4f;
+  border-radius: 5px;
+  margin-left: 5px;
+  width: 90px;
+  height: 40px;
+}
